@@ -1,0 +1,14 @@
+/home/wasiqabbas/Documents/C# Programs/bin/Debug/net9.0/C# Programs
+/home/wasiqabbas/Documents/C# Programs/bin/Debug/net9.0/C# Programs.deps.json
+/home/wasiqabbas/Documents/C# Programs/bin/Debug/net9.0/C# Programs.runtimeconfig.json
+/home/wasiqabbas/Documents/C# Programs/bin/Debug/net9.0/C# Programs.dll
+/home/wasiqabbas/Documents/C# Programs/bin/Debug/net9.0/C# Programs.pdb
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/C# Programs.GeneratedMSBuildEditorConfig.editorconfig
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/C# Programs.AssemblyInfoInputs.cache
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/C# Programs.AssemblyInfo.cs
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/C# Programs.csproj.CoreCompileInputs.cache
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/C# Programs.dll
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/refint/C# Programs.dll
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/C# Programs.pdb
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/C# Programs.genruntimeconfig.cache
+/home/wasiqabbas/Documents/C# Programs/obj/Debug/net9.0/ref/C# Programs.dll
