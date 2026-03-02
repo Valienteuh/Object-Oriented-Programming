@@ -1,0 +1,14 @@
+/home/wasiqabbas/Documents/Terminal Clash/bin/Debug/net9.0/Terminal Clash
+/home/wasiqabbas/Documents/Terminal Clash/bin/Debug/net9.0/Terminal Clash.deps.json
+/home/wasiqabbas/Documents/Terminal Clash/bin/Debug/net9.0/Terminal Clash.runtimeconfig.json
+/home/wasiqabbas/Documents/Terminal Clash/bin/Debug/net9.0/Terminal Clash.dll
+/home/wasiqabbas/Documents/Terminal Clash/bin/Debug/net9.0/Terminal Clash.pdb
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/Terminal Clash.GeneratedMSBuildEditorConfig.editorconfig
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/Terminal Clash.AssemblyInfoInputs.cache
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/Terminal Clash.AssemblyInfo.cs
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/Terminal Clash.csproj.CoreCompileInputs.cache
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/Terminal Clash.dll
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/refint/Terminal Clash.dll
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/Terminal Clash.pdb
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/Terminal Clash.genruntimeconfig.cache
+/home/wasiqabbas/Documents/Terminal Clash/obj/Debug/net9.0/ref/Terminal Clash.dll
