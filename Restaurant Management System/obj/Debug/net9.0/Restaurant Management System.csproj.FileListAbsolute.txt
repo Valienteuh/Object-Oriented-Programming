@@ -1,0 +1,14 @@
+/home/wasiqabbas/Documents/Restaurant Management System/bin/Debug/net9.0/Restaurant Management System
+/home/wasiqabbas/Documents/Restaurant Management System/bin/Debug/net9.0/Restaurant Management System.deps.json
+/home/wasiqabbas/Documents/Restaurant Management System/bin/Debug/net9.0/Restaurant Management System.runtimeconfig.json
+/home/wasiqabbas/Documents/Restaurant Management System/bin/Debug/net9.0/Restaurant Management System.dll
+/home/wasiqabbas/Documents/Restaurant Management System/bin/Debug/net9.0/Restaurant Management System.pdb
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/Restaurant Management System.GeneratedMSBuildEditorConfig.editorconfig
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/Restaurant Management System.AssemblyInfoInputs.cache
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/Restaurant Management System.AssemblyInfo.cs
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/Restaurant Management System.csproj.CoreCompileInputs.cache
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/Restaurant Management System.dll
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/refint/Restaurant Management System.dll
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/Restaurant Management System.pdb
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/Restaurant Management System.genruntimeconfig.cache
+/home/wasiqabbas/Documents/Restaurant Management System/obj/Debug/net9.0/ref/Restaurant Management System.dll

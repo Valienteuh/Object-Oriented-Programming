@@ -1,0 +1,16 @@
+1 5 0 0 0 0
+Choco Lava
+2 5 0 0 0 0
+Fries
+3 1 0 0 0 0
+Burger
+4 2 0 0 0 0
+Pizza
+5 99 0 0 0 0
+Izzat
+6 4 0 0 0 0
+Kela
+7 10 0 0 0 0
+Neend Ki Goliyan
+8 10 0 0 0 0
+Pakora
