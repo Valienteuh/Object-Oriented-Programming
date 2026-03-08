@@ -1,0 +1,14 @@
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/bin/Debug/net9.0/Task 05
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/bin/Debug/net9.0/Task 05.deps.json
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/bin/Debug/net9.0/Task 05.runtimeconfig.json
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/bin/Debug/net9.0/Task 05.dll
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/bin/Debug/net9.0/Task 05.pdb
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/Task 05.GeneratedMSBuildEditorConfig.editorconfig
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/Task 05.AssemblyInfoInputs.cache
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/Task 05.AssemblyInfo.cs
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/Task 05.csproj.CoreCompileInputs.cache
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/Task 05.dll
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/refint/Task 05.dll
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/Task 05.pdb
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/Task 05.genruntimeconfig.cache
+/home/wasiqabbas/Documents/Lab Week 2/Task 05/obj/Debug/net9.0/ref/Task 05.dll

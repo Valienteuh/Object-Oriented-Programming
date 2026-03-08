@@ -1,0 +1,4 @@
+admin,123,Admin
+ali,111,Student
+ahmed,222,Teacher
+fatima,333,Student
